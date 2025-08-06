@@ -3,7 +3,7 @@
 # Run `pod lib lint open_file_plus.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'open_file_plus'
+  s.name             = 'another_open_file'
   s.version          = '1.0.0'
   s.summary          = 'A plug-in that can call native APP to open files with string result in flutter, support iOS(UTI) / android(intent) / PC(ffi) / web(dart:html)'
   s.description      = <<-DESC
